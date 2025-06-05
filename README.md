@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚽ Football Match Prediction System
 
 A full-stack AI/ML project that predicts the outcome of English Premier League (EPL) football matches using XGBoost classification based on historical performance, win ratios, and goal differences. This is **Phase 1** of a production-ready system designed with real-world deployment in mind.
@@ -94,10 +93,3 @@ AI/ML Engineer | [LinkedIn](https://www.linkedin.com/in/vibhavjaiswal)
 ---
 
 > ⚠️ _This project is for educational and demonstration purposes. Match predictions are not guaranteed and should not be used for betting._
-=======
-# Football Match Prediction System
-
-Phase 1: Initial ML model, FastAPI backend, and test API endpoint.
-
-More features and dashboard integration coming soon.
->>>>>>> 4c38e94a0eceefbb4c02376b5cd043ec4c6030b9
